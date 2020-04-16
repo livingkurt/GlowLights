@@ -1,1 +1,1 @@
-# Ecommerce-Template
+# GlowLights
